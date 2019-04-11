@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1555002379 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<math.h>
+	"include/Screen.h"
+	"Particle.h"
+	"Swarm.h"
+	<stdlib.h>
+	<time.h>
+
+1554997297 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/include/Screen.h
+	<SDL2/SDL.h>
+
+1555004320 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/src/Screen.cpp
+	"../include/Screen.h"
+
+1554995763 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/src/Swarm.cpp
+	"Swarm.h"
+
+1554995397 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/include/Swarm.h
+	"Particle.h"
+
+1555003717 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/include/Particle.h
+
+1555004538 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/partical_fire_project/src/Particle.cpp
+	"Particle.h"
+	<stdlib.h>
+	<math.h>
+
